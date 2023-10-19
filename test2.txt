@@ -1,0 +1,7 @@
+More context
+Let's look at the PAT
+This is a test file with a revoked PAT
+A Github PAT: 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
+The Github PAT in this file is not active
+More context
+Let's look at the PAT again
